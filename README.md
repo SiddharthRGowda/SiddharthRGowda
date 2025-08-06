@@ -34,17 +34,17 @@ I specialize in **data visualization, automation, and analytics pipelines**.
 
 ## 📂 Featured Projects  
 
-### **1. YouTube Customer Segmentation**  
-**RFM Analysis** of YouTube survey data using **SPSS & Power BI** for audience segmentation.  
+### **1. Descriptive Analytics Dashboard**  
+An **interactive Power BI dashboard** showcasing **key business metrics, trends, and performance insights**, helping stakeholders make informed decisions through visual storytelling.  
 
 <p align="center">
-  <img src="./assets/youtube-segmentation.gif" width="700">
+  <img src="./assets/descriptive-analytics.gif" width="700">
 </p>
 
 ---
 
 ### **2. Reliance Infra Google Trends Dashboard**  
-Real-time **Google Trends data pipeline** with Python + Power BI.  
+A **real-time analytics pipeline** built using **Python** to fetch Google Trends data and visualize public interest for Reliance Infra in an **interactive Power BI dashboard**.  
 
 <p align="center">
   <img src="./assets/reliance-trends.gif" width="700">
@@ -52,12 +52,13 @@ Real-time **Google Trends data pipeline** with Python + Power BI.
 
 ---
 
-### **3. Sales Performance Dashboard**  
-Automated **Google Sheets + SQL + Power BI** dashboard for revenue analysis.  
+### **3. Social Media Performance Dashboard**  
+A **comprehensive social media analytics dashboard** designed in **Power BI**, providing **post-level performance metrics, platform-specific engagement insights, and geographic reach analysis** to optimize campaign strategies.  
 
 <p align="center">
-  <img src="./assets/sales-dashboard.gif" width="700">
+  <img src="./assets/social-media-performance.gif" width="700">
 </p>
+
 
 ---
 
